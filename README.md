@@ -1,2 +1,6 @@
 # Dental_clinic.github.io
-Demo Website for Dental Clinic for Education Purpose
+Website of Dental Clinic for Education Purpose
+
+
+This is the link where you can see the project 
+ https://ashutosh8051.github.io/Dental_clinic.github.io/
